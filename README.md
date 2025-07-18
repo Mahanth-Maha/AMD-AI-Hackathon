@@ -1,6 +1,14 @@
 # AMD-AI-Hackathon
 AMD AI Hackathon project 
 
+
+---
+
+### Contributors :
+* Yalla Mahanth 
+* Md Kaif Alam 
+* Pritam Kumar
+
 ## Hackathon Overview
 
 ### Track 1 : AMD AI Premier League (AAIPL)
@@ -30,3 +38,4 @@ A head-to-head AI competition where teams of up to 3 developers build two intell
 ​Final working solution
 
 ​PowerPoint summarizing techniques used
+
