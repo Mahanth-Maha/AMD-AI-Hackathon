@@ -8,6 +8,34 @@ AMD AI Hackathon project
 * Yalla Mahanth 
 * Md Kaif Alam 
 * Pritam Kumar
+---
+
+
+## Setup 
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Mahanth-Maha/AMD-AI-Hackathon.git
+cd AMD-AI-Hackathon
+```
+
+2. Create a virtual environment:
+```bash 
+conda create -n amd_ai python=3.10.18 -y 
+conda activate amd_ai
+```
+
+2.a. make noteboook kernel:
+```bash
+conda install -c anaconda ipykernel -y
+python -m ipykernel install --user --name amd_ai --display-name "amd_ai"
+``` 
+
+3. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Hackathon Overview
 
@@ -38,4 +66,6 @@ A head-to-head AI competition where teams of up to 3 developers build two intell
 ​Final working solution
 
 ​PowerPoint summarizing techniques used
+
+
 
